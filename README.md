@@ -1,9 +1,9 @@
 **Downloaded libraries**
 
-pip install googletrans==4.0.0-rc1     
-pip install speechrecognition
-pip install playsound
-pip install gTTS
+*pip install googletrans==4.0.0-rc1*    
+*pip install speechrecognition*
+*pip install playsound*
+*pip install gTTS*
 
 
 ***I worked on a program that allows us to translate languages by voice.***

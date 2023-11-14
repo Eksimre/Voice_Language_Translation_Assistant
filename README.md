@@ -1,8 +1,11 @@
 **Downloaded libraries**
 
-*pip install googletrans==4.0.0-rc1*    
+*pip install googletrans==4.0.0-rc1*  
+
 *pip install speechrecognition*
+
 *pip install playsound*
+
 *pip install gTTS*
 
 
